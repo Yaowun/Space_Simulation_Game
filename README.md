@@ -8,8 +8,8 @@ Python 3.9、PyGame 2.3.0
 ## 資料夾說明
 * calender - 日曆圖片放置處
 * Fight - 打工支線圖片放置處
-* images - 背景放置處
-* musics - 音樂放置處
+* images - 背景圖片放置處
+* musics - 音樂檔案放置處
 * social - 社交支線圖片放置處
 * txtimage - 文字選項外框圖片放置處
 
