@@ -1,6 +1,6 @@
 # Space_Simulation_Game
 ## 專案介紹
-本專案由 4~5 人團隊開發完成，使用 Python 程式語言設計「太空系模擬器」遊戲，玩家將扮演即將就讀中央大學太空科學與工程學系的大一新生，體驗就讀太空系的四年大學經歷。 
+本專案由 4~5 人團隊開發完成，使用 Python 程式語言設計「太空系模擬器」遊戲，玩家將扮演即將就讀中央大學太空科學與工程學系的大一新生，體驗就讀太空系的四年大學經歷。
 
 ## 專案技術
 Python 3.9、PyGame 2.3.0
@@ -17,4 +17,6 @@ Python 3.9、PyGame 2.3.0
 部分主程式架構、社交支線設計
 
 ## 成果
-![Space Simulation Game](./screenshot.png)
+![Space Simulation Game](./fig/home_page.png)
+
+![Space Simulation Game](./fig/choose_page.png)
